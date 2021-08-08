@@ -10,8 +10,10 @@ terra/chat
 terra/chat/app
 terra/chat/log
 
+include ./topics/penjumlahan34.m
+include ./topics/penjumlahan12.m
 include ./topics/test.m
-\ include ./topics/intro.m
+
 
 idk: I don't understand the question.
 
@@ -39,11 +41,11 @@ idk: I don't understand the question.
   \ The background image. Should be tileable/repeatable. 
   \ Or you can use a HTML color (see https://www.w3schools.com/colors/colors_picker.asp)
   \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
-  background: white
+  background: https://images.pexels.com/photos/3942924/pexels-photo-3942924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
   avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Al-Khwarizmi_portrait.jpg/250px-Al-Khwarizmi_portrait.jpg
   \ Optional border on avatar
   \ avatar-border: solid #AAA 1px
-  avatar-border: none
+  avatar-border: solid #AAA 1px
   
   \ Google font to import.
   import-font: Open+Sans:wght@300
@@ -54,14 +56,14 @@ idk: I don't understand the question.
   bubble-bot-background: #EEE
   \ Font Color & Background for user bubble
   bubble-user-color: white
-  bubble-user-background: #3366cc
+  bubble-user-background: #333
   \ Other bubble properties
   \ bubble-border: solid blue 1px
   bubble-border: none
   bubble-radius: 16
   bubble-font-size: 14
   \ Max Width of bot bubble, in pixels
-  \ bot-bubble-width: 380
+  bot-bubble-width: 300
   \ You can limit the number of responses displayed
   \ limit: 3
   
@@ -76,9 +78,16 @@ idk: I don't understand the question.
 
   \ ----- PROPERTIES OF THE URL LINK FOR SOCIAL MEDIA --------
   \ These will be visible when you share the link to your bot.
-  title: Simple Chatbot
-  description: My first chatbot.
+  title: Masy
+  description: Math chatbot about Integer.
   thumbnail: https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
   
 ;
+
+
+
+
+
+
+
 
