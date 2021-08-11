@@ -10,10 +10,9 @@ terra/chat
 terra/chat/app
 terra/chat/log
 
-include ./topics/penjumlahan34.m
-include ./topics/penjumlahan12.m
-include ./topics/test.m
-
+include ./topics/pengurangan.m
+include ./topics/penjumlahan.m
+include ./topics/bot.m
 
 idk: I don't understand the question.
 
@@ -42,7 +41,7 @@ idk: I don't understand the question.
   \ Or you can use a HTML color (see https://www.w3schools.com/colors/colors_picker.asp)
   \ background: https://live.staticflickr.com/4135/4915115384_ca7b1df603_b.jpg
   background: https://images.pexels.com/photos/3942924/pexels-photo-3942924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-  avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Al-Khwarizmi_portrait.jpg/250px-Al-Khwarizmi_portrait.jpg
+  avatar: https://cdn.dribbble.com/users/8021312/screenshots/16204306/media/440f0eae5447d386560ac867c0c48edc.png
   \ Optional border on avatar
   \ avatar-border: solid #AAA 1px
   avatar-border: solid #AAA 1px
@@ -83,11 +82,3 @@ idk: I don't understand the question.
   thumbnail: https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=100
   
 ;
-
-
-
-
-
-
-
-
