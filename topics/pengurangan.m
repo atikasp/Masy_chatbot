@@ -15,52 +15,63 @@ btnHome: home
 : materi-pengurangan1
     q{
         1. Bilangan bulat positif dikurang bilangan bulat positif menghasilkan bilangan positif <br>
-        <img width="280" height="150" src="https://images.pexels.com/photos/2068975/pexels-photo-2068975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> <br>    
-           Misalnya: Kamu punya uang Rp 60.000 lalu kamu beri kepada orang lain Rp 25.000, maka sisa uang kamu adalah ...<br>
+        <img width="280" height="150" src="https://images.pexels.com/photos/3873188/pexels-photo-3873188.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" /> <br>    
+           Misalnya: Seorang ibu awalnya demam tinggi hingga 41 derajat celcius. Setelah minum obat, berangsur-angsur suhu tubuhnya turun sebanyak 5 derajat celcius.
+           Berapakah suhu tubuh ibu tersebut sekarang ?<br>
            Penyelesaian:<br>
-           60.000 - 25.000 = 35.000,<br>
-           maka sisa uang kamu adalah Rp 35.000<br>
-           Bagaimana jika kamu memberi 80.000 ? Apa yang terjadi ? <br>
-           Penyelesaian:<br>
-           60.000 - 80.000 = -20.000<br>
-           Artinya kamu berhutang Rp 20.000<br>
+           41 - 5 = 36 <br>
+           Maka suhu tubuh ibu tersebut sekarang adalah 36 derajat celcius.<br>
+           Tips:<br>
+           Hasil ditentukan dari angka terbesar.<br>
+           Di soal ini angka yang terbesar adalah 41 (bernilai positif) maka hasilnya pasti positif. 
+           Karena ada yang positif dan negatif, maka angkanya dikurang.
     }q
 ;
 
 : materi-pengurangan2
     q{
         2. Bilangan bulat positif dikurang bilangan bulat negatif<br>
-           Misalnya: Kamu punya uang Rp 50.000 dan ingin memberi kepada orang lain. Tapi, orang terebut malah memberi kamu hutang 70.000. Berapa total uang kamu ?<br>
+            <img width="280" height="150" src="https://images.pexels.com/photos/247474/pexels-photo-247474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> <br>
+           Misalnya: Suhu di Indonesia 29 derajat Celcius, sedangkan suhu di kutub selatan 45 derajat Celcius di bawah nol.
+            Berapa perbedaan suhu di kedua tempat tersebut?<br>
            Penyelesaian:<br>
-           50.000 - (-70.000) => 50.000 + 70.000 = 120.000<br>
-           Artinya uang kamu sekarang Rp 120.000<br><br>
+           29 - (-45) => 29 + 45 = 74 <br>
+           Artinya perbedaan suhu di kedua tempat tersebut sebesar 74 derajat celcius.<br><br>
            Tips:<br>
-           "Jika negatif bertemu negatif (- - ) maka tanda tersebut berubah menjadi positif".
-    }q
+           "Jika negatif bertemu negatif (- - ) maka tanda tersebut berubah menjadi positif".    }q
 ;
 
 : materi-pengurangan3
     q{
         3. Bilangan bulat negatif dikurang bilangan bulat positif<br>
-        Misalnya: Kamu punya hutang Rp 50.000 lalu kamu bayar Rp 100.000, maka apa yang terjadi ??<br>
+        <img width="280" height="150" src="https://images.pexels.com/photos/5967796/pexels-photo-5967796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> <br>
+           Misalnya: Seekor ikan hiu paus raksasa berenang dikedalaman 543 meter di bawah permukaan laut.
+           Kemudian ia berenang lagi 381 meter di bawah permukaan laut untuk memakan ikan-ikan kecil maupun makrozooplankton. 
+           Di kedalaman berapa ikan hiu paus itu berada ? <br>
            Penyelesaian:<br>
-           -50.000 + 70.000 = 20.000<br>
-           Artinya kamu mendapat kembalian Rp 20.000<br><br>
-           Bagaimana jika kamu hanya bayar  20.000 ?? <br>
-           Penyelesaian:<br>
-           -50.000 + 20.000 = -30.000<br>
-           Artinya kamu masih berhutang Rp 30.000<br><br>
-           
+           -543 - 381 = -924 <br>
+           Artinya ikan hiu paus itu berada di kedalaman 924 meter di bawah permukaan laut<br><br>
+           Tips:<br>
+           Karena 543 dan 381 bernilai negatif, maka hasilnya pasti negatif, dan angka-angka tersebut dijumlahkan.<br><br>
     }q
 ;
 
 : materi-pengurangan4
     q{
         4. Bilangan bulat negatif dikurang bilangan bulat negatif<br>
-        Misalnya: Kamu punya hutang Rp 50.000 lalu kamu tambah hutang kamu Rp 35.000, maka apa yang terjadi ??<br>
+       <img width="280" height="150" src="https://images.pexels.com/photos/4968548/pexels-photo-4968548.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" /> <br>
+           Misalnya: Rara berhutang Rp 6.500 pada Ari. Oleh Ari utang tersebut dikurangi Rp 2.000.
+           Berapakah sisa hutang Rara ?
            Penyelesaian:<br>
-           -50.000 + (-35.000) => -50.000 - 35.000 = -85.000<br>
-           Artinya kamu berhutang Rp 85.000<br><br>
+           Catatan: hutang kita simbolkan dengan tanda negatif (-) <br>
+           -6.500 - (-2.000) => -6.500 + 2.000 = -4.500<br>
+           Artinya hutang Rara tinggal Rp 4.500<br>
+           Tips:<br>
+           Hasil ditentukan dari angka terbesar.<br>
+           Di soal ini angka yang terbesar adalah 6.500 (bernilai negatif) maka hasilnya pasti negatif. 
+           Karena ada yang positif dan negatif, maka angkanya dikurang.<br><br>
+           
+           Materi pengurangan selesai...
           
     }q
 ;
@@ -85,8 +96,7 @@ btnHome: home
     "Home" button "Lanjut Pengurangan ke 3" button ctx{ home lanjut_pengurangan_ke_3 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_pengurangan_ke_3}
+        #{home} #{lanjut_pengurangan_ke_3}
     }q
 ;
 
@@ -95,8 +105,7 @@ btnHome: home
     "Home" button "Lanjut Pengurangan ke 4" button ctx{ home lanjut_pengurangan_ke_4 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_pengurangan_ke_4}
+        #{home} #{lanjut_pengurangan_ke_4}
     }q
 ;
 
@@ -125,4 +134,3 @@ A: $x :home same? % ${ lesson }
 Q: $x.@btnbackHome
 A: $x :home same? % ${ lesson }
 --
-
