@@ -40,8 +40,7 @@ lesson: penjumlahan pengurangan quiz
     "Home" button "Lanjut Penjumlahan ke 2" button ctx{ home lanjut_penjumlahan_ke_2 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_penjumlahan_ke_2}
+        #{home} #{lanjut_penjumlahan_ke_2}
     }q
 ;
 
@@ -50,21 +49,20 @@ lesson: penjumlahan pengurangan quiz
     "Home" button "Lanjut Pengurangan ke 2" button ctx{ home lanjut_pengurangan_ke_2 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_pengurangan_ke_2}
+        #{home} #{lanjut_pengurangan_ke_2}
     }q
 ;
 
 
 Q: $x.@intro
 A: $x :ya same? % ${ lesson }
-A: Tidak ada dalam materi.
 --
 
 Q: $x.@lesson
 A: $x :penjumlahan same? % ${ materi-penjumlahan1 btnNext }
 A: $x :pengurangan same? % ${ materi-pengurangan1 btnLanjut }
-A: $x :quiz same? % Ini adalah quiz
+A: $x :quiz same? % ${ soal1 }
+\ A: Tidak ada dalam materi
 --
 
 
