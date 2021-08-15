@@ -19,11 +19,13 @@ btnHome: home
         - Semakin ke kanan, nilai nya semakin besar <br>
         - Semakin ke kiri, nilainya semakin kecil <br><br>
         1. Bilangan bulat positif ditambah bilangan bulat positif menghasilkan bilangan positif <br>
-        <img width="280" height="150" src="https://images.pexels.com/photos/2068975/pexels-photo-2068975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> <br>    
+           <img width="280" height="150" src="https://i.pinimg.com/originals/99/70/f8/9970f85c8b89fba6a6735263caf04d10.gif" /> <br>
            Misalnya: Kamu punya uang Rp 55.700 lalu kamu diberi uang lagi Rp 29.000, maka total uang kamu adalah ...<br>
            Penyelesaian:<br>
            55.700 + 29.000 = 84.700,<br>
-           maka total uang kamu adalah Rp 84.700
+           maka total uang kamu adalah Rp 84.700<br>
+           Tips:<br>
+           Karena 55.700 dan 29.000 bernilai positif, maka hasilnya pasti positif, dan angka-angka tersebut dijumlahkan.
     }q
 ;
 
@@ -31,43 +33,47 @@ btnHome: home
     q{
         2. Bilangan bulat positif ditambah bilangan bulat negatif<br>
         <img width="280" height="150" src="https://images.pexels.com/photos/4968384/pexels-photo-4968384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" /> <br>    
-           Misalnya: Kamu punya uang Rp 50.000 lalu kamu berhutang Rp 70.000, maka apa yang terjadi ??<br>
+           Misalnya: Kamu punya uang Rp 50.000 lalu kamu membeli buku seharga Rp 70.000, maka apa yang terjadi ??<br>
            Penyelesaian:<br>
-           Catatan: hutang kita simbolkan dengan tanda negatif (-) <br><br>
            50.000 + (-70.000) => 50.000 - 70.000 = -20.000<br>
-           Artinya kamu berhutang Rp 20.000<br><br>
-           Bagaimana jika kamu hanya berhutang 20.000 ?? <br>
-           Penyelesaian:<br>
-           50.000 + (-20.000) => 50.000 - 20.000 = 30.000<br>
-           Artinya sisa uang kamu Rp 30.000<br><br>
+           Artinya kamu kekurangan uang sebesar Rp 20.000<br><br>
            Tips:<br>
-           "Jika positif bertemu negatif (+ - ) maka tanda tersebut berubah menjadi negatif".
+           1. Jika positif bertemu negatif (+ - ) maka tanda tersebut berubah menjadi negatif.<br>
+           2. Hasil ditentukan dari angka terbesar.<br>
+           Di soal ini angka yang terbesar adalah 70.000 (bernilai negatif), maka hasilnya pasti negatif. 
+           Karena ada yang positif dan negatif, maka angkanya dikurang.
     }q
 ;
 
 : materi-penjumlahan3
     q{
         3. Bilangan bulat negatif ditambah bilangan bulat positif<br>
-        Misalnya: Kamu punya hutang Rp 50.000 lalu kamu bayar Rp 100.000, maka apa yang terjadi ??<br>
-           Penyelesaian:<br>
-           -50.000 + 70.000 = 20.000<br>
-           Artinya kamu mendapat kembalian Rp 20.000<br><br>
-           Bagaimana jika kamu hanya bayar  20.000 ?? <br>
-           Penyelesaian:<br>
-           -50.000 + 20.000 = -30.000<br>
-           Artinya kamu masih berhutang Rp 30.000<br><br>
-           
+        <img width="280" height="150" src="https://images.pexels.com/photos/296301/pexels-photo-296301.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" /> <br>
+        Misalnya: Beberapa anak sedang bermain di taman. Salah satu dari mereka mundur sebanyak 15 langkah, lalu melompat ke depan sejauh 20 langkah.
+        Ada diposisi ke berapa anak tersebut ??<br>
+        Catatan: mundur kita simbolkan dengan tanda negatif (-) <br>
+        Penyelesaian:<br>
+           -15 + 20 = 5 <br>
+           Artinya anak tersebut berada diposisi 5 <br>
+           Tips:<br>
+           Hasil ditentukan dari angka terbesar.<br>
+           Di soal ini yang terbesar adalah 20 (bernilai positif) maka hasilnya pasti positif. 
+           Karena ada yang positif dan negatif, maka angkanya dikurang.
     }q
 ;
 
 : materi-penjumlahan4
     q{
         4. Bilangan bulat negatif ditambah bilangan bulat negatif<br>
-        Misalnya: Kamu punya hutang Rp 50.000 lalu kamu tambah hutang kamu Rp 35.000, maka apa yang terjadi ??<br>
+        <img width="280" height="150" src="https://thumbs.gfycat.com/AbsoluteLivelyHoneybee-max-1mb.gif" /> <br>
+        Misalnya: Seorang penyelam mula-mula menyelam dikedalaman 3 meter di bawah permukaan laut.
+        Kemudian ia turun lagi sebanyak 9 meter di bawah permukaan laut. Di kedalaman berapa meter penyelam tersebut saat ini ? <br>
            Penyelesaian:<br>
-           -50.000 + (-35.000) => -50.000 - 35.000 = -85.000<br>
-           Artinya kamu berhutang Rp 85.000<br><br>
-          
+           -3 + (-9) => -3 - 9 = -12 <br>
+           Artinya saat ini penyelam tersebut berada 12 meter di bawah permukaan laut.<br><br>
+           Tips:<br>
+           Karena 3 dan 9 bernilai negatif, maka hasilnya pasti negatif, dan angka-angka tersebut dijumlahkan.<br><br>
+           Materi penjumlahan selesai...
     }q
 ;
 
@@ -91,8 +97,7 @@ btnHome: home
     "Home" button "Lanjut Penjumlahan ke 3" button ctx{ home lanjut_penjumlahan_ke_3 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_penjumlahan_ke_3}
+        #{home} #{lanjut_penjumlahan_ke_3}
     }q
 ;
 
@@ -101,8 +106,7 @@ btnHome: home
     "Home" button "Lanjut Penjumlahan ke 4" button ctx{ home lanjut_penjumlahan_ke_4 }
     q{
         <p>#{msg}</p><br>
-        #{home} <br>
-        #{lanjut_penjumlahan_ke_4}
+        #{home} #{lanjut_penjumlahan_ke_4}
     }q
 ;
 
